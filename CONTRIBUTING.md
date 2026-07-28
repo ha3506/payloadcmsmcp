@@ -19,3 +19,4 @@ Notes and usage details for payloadcmsmcp.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
